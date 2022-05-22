@@ -2,10 +2,10 @@
 
 
 
-Browser-based ETH vanity address generator
+Browser-based Metis vanity address generator
 
 
-[![Vanity-Metis](https://i.imgur.com/zmSLeBP.png)]
+[![Vanity-Metis](https://user-images.githubusercontent.com/75070913/169709660-e171ad7a-97f2-43e1-9e8f-aca4195d8d4d.png)
 
 ## What's a vanity address?
 
